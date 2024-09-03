@@ -1,6 +1,6 @@
-# YouTube Auto Pause VS Code Extension
+# YouTube Auto Pause Chrome Extension
 
-**YouTube Auto Pause** is a VS Code extension that automatically pauses YouTube videos when you switch tabs and resumes playback when you return.
+**YouTube Auto Pause** is a Chrome extension that automatically pauses YouTube videos when you switch tabs and resumes playback when you return.
 
 ## Features
 
@@ -8,10 +8,18 @@
 
 ## Installation
 
-1. Open VS Code.
-2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window or pressing `Ctrl+Shift+X`.
-3. Search for "YouTube Auto Pause" in the Extensions Marketplace.
-4. Click "Install" to add the extension to your VS Code setup.
+1. **Download the Extension**:
+   - Go to the [GitHub repository](https://github.com/vivekpatel200/Git_hub_learn) and download the latest release as a ZIP file.
+
+2. **Extract the ZIP File**:
+   - Extract the downloaded ZIP file to a folder on your computer.
+
+3. **Load the Extension in Chrome**:
+   - Open Chrome.
+   - Go to `chrome://extensions/` in your address bar.
+   - Enable "Developer mode" by toggling the switch in the top right corner.
+   - Click on "Load unpacked".
+   - Select the folder where you extracted the ZIP file.
 
 ## Usage
 
@@ -20,10 +28,8 @@ The extension operates automatically once installed, managing YouTube video play
 ## Contributing
 
 Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a Pull Request.
 
-For bug reports or feature requests, please open an issue in the repository.
+1. Fork the repository.
+2. Create a feature branch:
+   ```bash
+   git checkout -b feature-branch
