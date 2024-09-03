@@ -25,11 +25,3 @@
 
 The extension operates automatically once installed, managing YouTube video playback based on your tab activity without requiring additional configuration.
 
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature-branch
